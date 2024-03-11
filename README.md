@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Контакты
+alex.suv18@mail.ru
+https://t.me/alexsuv18
+### Languages and tools
+
+### Сертификаты
+
+Сертификат доступен по ссылке https://lab.karpov.courses/certificate/32bf704a-19fe-41f9-a8ec-efd1443d3baa/en/
+
 <!--
 **alexsuv18/alexsuv18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
